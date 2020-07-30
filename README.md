@@ -1,21 +1,47 @@
-## Hi there, I'm <a href="https://shubhamjha25.github.io">Shubham</a> 👋
+## Hi There, I'm <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
 
-<pre align="left">Web Developer  •  Tech Enthusiast  •  Programmer  •  Learner  •  Student  •</pre>
+<pre align="left">Web Developer  •  Tech Enthusiast  •  Programmer  •  Learner  •  Student</pre>
+
+### Let's Connect !
+
+[<img align="left" alt="Shubham Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+
+---
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhamjha25&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Shubham's github stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjha25&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
+</p>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
+### About Me
 
 - 🔭 I’m currently learning Web Development
+
 - 🌱 Interested in Machine Learning & Data Science
-- 📫 Contact Me : shubham.jha2001m@gmail.com
+
 - ⚡ Open Source Enthusiast
+
+- 📫 Contact Me : shubham.jha2001m@gmail.com
+
 - 😄 Pronouns: He/Him
 
 ---
 
-### Let's Connect !
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shubham Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
----
 
 ### Languages & Tools :
 
@@ -37,10 +63,29 @@
 
 ---
 
-<img align="left" alt="Shubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamjha25&show_icons=true&hide_border=false&count_private=true" width="550px" />
-<img alt="LANGUAGES" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjha25" />
+### Pet Projects
+
+<p> 
+  <a href="https://github.com/shubhamjha25/COVID-19-Tracker">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=COVID-19-Tracker&theme=radical" />
+  </a>
+  <a href="https://github.com/shubhamjha25/ToDo-List">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=ToDo-List&theme=radical" />
+  </a>  
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ---
+
 
 [website]: https://shubhamjha25.github.io
 [linkedin]: https://www.linkedin.com/in/shubham-jha-252001/
