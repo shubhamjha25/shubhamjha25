@@ -2,16 +2,12 @@
 
 <pre align="left">Web Developer  •  Tech Enthusiast  •  Programmer  •  Learner  •  Student</pre>
 
-### Let's Connect !
-
-[<img align="left" alt="Shubham Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
 
 
----
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhamjha25&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Shubham's github stats"/>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjha25&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anujeet's github stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjha25&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Shubham's github stats"/>
 </p>
 
 
@@ -63,16 +59,27 @@
 
 ---
 
+
+### Let's Connect !
+
+[<img align="left" alt="Shubham Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+
+<br />
+
+---
+
 ### Pet Projects
 
 <p> 
   <a href="https://github.com/shubhamjha25/COVID-19-Tracker">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=COVID-19-Tracker&theme=radical" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=COVID-19-Tracker" />
   </a>
   <a href="https://github.com/shubhamjha25/ToDo-List">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=ToDo-List&theme=radical" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=ToDo-List" />
   </a>  
 </p>
 
