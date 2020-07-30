@@ -1,9 +1,5 @@
 ## Hi There, I'm <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
 
-<pre align="left">Web Developer  •  Tech Enthusiast  •  Programmer  •  Learner  •  Student</pre>
-
-<br />
-
 
 <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubhamjha25&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Shubham's github stats"/>
@@ -23,6 +19,8 @@
 <br />
 
 ---
+
+<br />
 
 ### About Me
 
@@ -59,17 +57,6 @@
 
 ---
 
-
-### Let's Connect !
-
-[<img align="left" alt="Shubham Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-
-<br />
-
----
-
 ### Pet Projects
 
 <p> 
@@ -89,10 +76,7 @@
 <br />
 <br />
 <br />
+<br />
 
 
 ---
-
-
-[website]: https://shubhamjha25.github.io
-[linkedin]: https://www.linkedin.com/in/shubham-jha-252001/
