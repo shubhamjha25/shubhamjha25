@@ -23,26 +23,6 @@
 
 <br />
 
-## Pet Projects
-
-<p> 
-  <a href="https://github.com/shubhamjha25/COVID-19-Tracker">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=COVID-19-Tracker" />
-  </a>
-  <a href="https://github.com/shubhamjha25/ToDo-List">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamjha25&repo=ToDo-List" />
-  </a>  
-</p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ## Languages & Tools :
 
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
