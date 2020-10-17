@@ -1,5 +1,27 @@
 ### Hi There, I'm <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
 
+## 💻 + ☕ = **</>**
+
+<pre>
+const shubham = {
+                    pronouns: "He" | "Him",
+                    code: ["cpp", "python","javascript", "typescript"],
+                    askMeAbout: ["web dev", "tech", "dsa"],
+                    technologies: {
+                        mobileApp: ["react-native"],
+                        frontEnd: {
+                            js: ["react", "next"],
+                            css: ["bootstrap", "materialize", "sass"]
+                        },
+                        backEnd: ["php"],
+                        databases: ["mysql"],
+                        misc: ["firebase", "git", "heroku", "figma"]
+                    },
+                    architecture: ["mvc", "serverless architecture", "progressive web applications", "single page applications"],
+                    funFact: "There are 10 types of people. Those who can read binary & those who can't !"
+                };</pre>
+
+<br />
 <br />
 
 <p>
@@ -9,17 +31,11 @@
 
 <br />
 
-## About Me
+## I'm
 
-- 🔭 I’m currently learning Web Development
-
+- 🔭 Currently learning Mobile App Development
 - 🌱 Interested in Machine Learning & Data Science
-
-- ⚡ Open Source Enthusiast
-
-- 📫 Contact Me : shubham.jha2001m@gmail.com
-
-- 😄 Pronouns: He/Him
+- ⚡ An Open Source Enthusiast
 
 <br />
 
@@ -42,3 +58,14 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
+<br />
+<br />
+
+## How To Reach Me ?
+<p align="left">
+<a href="mailto:shubham.jha2001m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/shubham-jha-252001/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/shubhamjha25/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
