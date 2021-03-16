@@ -1,4 +1,4 @@
-### Hi There, I'm <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
+### नमस्ते (Namaste), I'm <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
 
 ## 💻 + ☕ = **</>**
 
@@ -13,11 +13,11 @@ const shubham = {
                             js: ["react", "next"],
                             css: ["bootstrap", "materialize", "sass"]
                         },
-                        backEnd: ["php"],
-                        databases: ["mysql"],
-                        misc: ["firebase", "git", "heroku", "figma"]
+                        backEnd: ["php", "nodejs", "express"],
+                        databases: ["mysql", "mongodb"],
+                        misc: ["firebase", "git", "heroku", "figma", "strapi"]
                     },
-                    architecture: ["mvc", "serverless architecture", "progressive web applications", "single page applications"],
+                    architecture: ["mvc", "event-driven", "pwa", "spa"],
                     funFact: "There are 10 types of people. Those who can read binary & those who can't !"
                 };</pre>
 
