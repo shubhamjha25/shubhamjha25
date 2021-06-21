@@ -33,6 +33,8 @@ const shubham = {
   <img align="center" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamjha25&theme=dark" />
 </p>
 
+![](https://activity-graph.herokuapp.com/graph?username=shubhamjha25&theme=github)
+
 <br />
 
 ## I'm
