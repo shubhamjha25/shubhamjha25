@@ -1,4 +1,4 @@
-### नमस्ते (Namaste), I'm <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
+### नमस्ते (Namaste), I am <a href="https://shubhamjha25.github.io">Shubham Jha</a> 👋
 
 ## 💻 + ☕ = **</>**
 
